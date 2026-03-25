@@ -6,3 +6,10 @@ p{
     
 
 }
+
+#keinPlan {
+
+    width: 50vw;
+    opacity: 50%;
+    border-color:2px solid rgb(49, 9, 9);
+}
